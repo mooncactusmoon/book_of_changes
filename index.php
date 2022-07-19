@@ -52,7 +52,7 @@
                 <p>上掛 : <?= $array[$num2] . '/' . $array2[$num2]; ?></p>
                 <p>變爻 : 第<?= $num3; ?>爻</p>
             </div>
-            <p class="my-5">請自行前往以下網站查詢卜卦結果 → <a href="https://www.eee-learning.com/article/2076">易學網</a></p>
+            <p class="my-5">請自行前往以下網站查詢卜卦結果 → <a href="https://www.eee-learning.com/article/2076" target="_blank">易學網</a></p>
         <?php
         }
         ?>
